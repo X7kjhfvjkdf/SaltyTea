@@ -1,6 +1,6 @@
 # SaltyTea
 A short interactive book in Russian
-When creating I used [inky][inky].
+When creating I used [inky][inky_a].
 It was a great experience. 
 
 
@@ -12,8 +12,8 @@ This work is licensed under a
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 
-[inky]:
-[inky]:https://github.com/inkle/inky?ysclid=mngqby7agd282755235
+[inky_a]:
+[inky]:https://github.com/inkle/
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
