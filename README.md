@@ -1,17 +1,20 @@
 # SaltyTea
-A short interactive book in Russian
-When creating I used [inky](https://github.com/inkle/inky?ysclid=mngqby7agd282755235).
-It was a great experience. 
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
+A short interactive book in Russian.
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+Built with [Ink](https://github.com/inkle/ink) and [Inky](https://github.com/inkle/inky).  
+It was a great experience.
 
-This work is licensed under a
+---
+
+## License
+
+This work is licensed under a  
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
