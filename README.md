@@ -3,6 +3,7 @@
 [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
 A short interactive book in Russian.
+Demo in pages: https://x7kjhfvjkdf.github.io/SaltyTea/
 
 Built with [Ink](https://github.com/inkle/ink) and [Inky](https://github.com/inkle/inky).  
 It was a great experience.
